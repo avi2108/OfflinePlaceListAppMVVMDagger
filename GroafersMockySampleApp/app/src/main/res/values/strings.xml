@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MockySample</string>
+    <string name="action_search">Search</string>
+    <string name="internet_error">Please connect to Internet</string>
+    <string name="empty_list_msg">No results.\nTry connecting Internet</string>
+    <string name="api_failure">Something wrong from our end. Please retry again.</string>
+</resources>
